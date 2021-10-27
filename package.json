@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-teams-app",
+  "version": "1.0.0",
+  "description": "It is an alternative of the team application, but trying to use the embedded browser in electron ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Kevin Castillo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
